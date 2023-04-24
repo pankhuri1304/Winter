@@ -191,7 +191,7 @@ with col1:
         st.table(x)
 
 with col2:
-    url = 'https://chat.openai.com/'
+    url = 'https://pankhuri1304-front-front-85jphc.streamlit.app/'
 
     if st.button('Home'):
         webbrowser.open(url, new=0)
